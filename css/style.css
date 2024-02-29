@@ -39,7 +39,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: #c89942; }
   a:focus, a:active {
     outline: none; }
@@ -424,7 +424,7 @@ header {
   left: 0;
   right: 0;
   font-size: 250px;
-  color: #f0f0f0;
+  color: #EFE0C6;
   font-weight: 700; }
   @media screen and (max-width: 768px) {
     .bold {
@@ -992,8 +992,8 @@ header {
   color: #fff;
   border: 2px solid #c89942; }
   c, .btn-primary:focus, .btn-primary:active {
-    background: #d49af9 !important;
-    border-color: #d49af9 !important; }
+    background: #EFE0C6 !important;
+    border-color: #EFE0C6 !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
