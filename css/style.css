@@ -764,9 +764,10 @@ header {
         .work-entry .work-img .display-t {
           height: 400px; } }
   .work-entry .desc .read {
+    color: #c89942;
     text-align: right; }
     .work-entry .desc .read a {
-      color: #000;
+      color: #c89942;
       text-transform: uppercase;
       letter-spacing: 4px;
       font-size: 12px;
@@ -779,7 +780,7 @@ header {
         content: '';
         width: 40px;
         height: 1px;
-        background: #000; }
+        background: #c89942; }
 
 #colorlib-blog .owl-carousel {
   z-index: 0; }
