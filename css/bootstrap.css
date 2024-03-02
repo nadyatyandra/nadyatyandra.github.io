@@ -15,6 +15,10 @@ body {
   margin: 0;
 }
 
+footer {
+  background-color: #EFE0C6;
+}
+
 article,
 aside,
 details,
