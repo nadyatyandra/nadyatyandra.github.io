@@ -3754,14 +3754,14 @@ a.btn.disabled, fieldset[disabled] a.btn {
   border: 1px solid #C89942;
 }
 .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
-  color: #C89942;
-  background-color: #EFE0C6;
-  border-color: #EFE0C6;
+  color: #fff;
+  background: #C89942;
+  border-color: 1px solid #C89942; 
 }
 .btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:active.focus, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus, .open > .btn-primary.dropdown-toggle:hover, .open > .btn-primary.dropdown-toggle:focus, .open > .btn-primary.dropdown-toggle.focus {
   color: #C89942;
-  background-color: #EFE0C6;
-  border-color: #EFE0C6;
+  background-color: #fff;
+  border: 1px solid #C89942;
 }
 .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
   background-image: none;
@@ -3771,8 +3771,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
   border-color: #2e6da4;
 }
 .btn-primary .badge {
-  background-color: #EFE0C6;
-  border-color: #EFE0C6;
+  background-color: #fff;
+  border: 1px solid #C89942;
 }
 
 .btn-success {

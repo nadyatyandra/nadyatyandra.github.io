@@ -995,10 +995,12 @@ header {
 .btn-primary {
   background: #c89942;
   color: #fff;
-  border: 2px solid #c89942; }
+  border: 1px solid #c89942; }
   c, .btn-primary:focus, .btn-primary:active {
-    background: #EFE0C6 !important;
-    border-color: #EFE0C6 !important; }
+    color: #fff;
+    background: #C89942 !important;
+    border-color: 1px solid #C89942 !important; 
+  }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
