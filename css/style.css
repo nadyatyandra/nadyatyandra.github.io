@@ -21,6 +21,15 @@
   100% { transform: translateY(0); }
 }
 
+.socmed-icons {
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+.socmed-icons:hover {
+  fill: #c89942;
+}
+
 .scroll-icon__wheel-outer {
   display: block;
   position: absolute;
@@ -78,6 +87,10 @@
   align-items: center;
   justify-content: center;
 }
+
+@media screen and (max-width: 991px) {
+  .page-wrap {
+    display: none; } }
 
 body {
   font-family: "Karla", Arial, sans-serif;
