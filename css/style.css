@@ -377,6 +377,10 @@ h1, h2, h3, h4, h5, h6 {
   padding: 3em 2em 0 0;
 }
 
+.custom-padding-2 {
+  padding: 8em 2em 0 0;
+}
+
 header {
   padding: 2em 0;
   position: absolute;
@@ -532,6 +536,10 @@ header {
     margin-bottom: 10px;
     color: #bfbfbf;
     font-weight: 600; }
+
+.place {
+  color: #8E8E8E;
+}
 
 .services-img,
 .work-img,
